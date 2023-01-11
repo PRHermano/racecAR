@@ -14,9 +14,13 @@ A Game where you can drive a toy rc car everywhere in AR. You can do diferent st
 - 2D Graphics
     - speed
     - points
+    - *NITRO*
 - 3D Objects
     - car
     - hoops
     - coins 
     - finish line
         
+- Sound
+    - soundtrack level 1
+    - sound FX
